@@ -1,7 +1,16 @@
 Favourites Unity Remakes
 ====
 
-Remaking flash games in Unity.
+Introduction
+------------
+
+Remakes of flash games in Unity.
+
+
+Purpose
+-------
+
+Create working examples and tinker with settings of popular games remade.
 
 
 To-do list
