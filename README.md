@@ -6,6 +6,12 @@ Introduction
 
 Remakes of flash games in Unity.
 
+Current projects:
+
+- Madness
+- Pool
+- Red 
+
 
 Purpose
 -------
@@ -16,9 +22,11 @@ Create working examples and tinker with settings of popular games remade.
 To-do list
 ==========
 
-&#x2611; Player
+&#x2611; Started remake
 
-&#9744; Extras
+&#9744; Remade
+
+&#9744; Improved
 
 
 
